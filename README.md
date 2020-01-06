@@ -1,5 +1,9 @@
 # PALNet
-Depth Based Semantic Scene Completion with Position Importance Aware Loss(RAL 2019) https://ieeexplore.ieee.org/document/8902045
+Depth Based Semantic Scene Completion with Position Importance Aware Loss(RAL 2019) 
+https://ieeexplore.ieee.org/document/8902045
+
+By Yu Liu*, Jie Li*, Xia Yuan, Chunxia Zhao, Roland Siegwart, Ian Reid and Cesar Cadena (* indicates equal contribution)
+
 
 
 ## Video Demo: 
